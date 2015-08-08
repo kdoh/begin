@@ -28,9 +28,9 @@ git remote add origin git@github.com:yourName/repoName.git
 # install dependencies
 npm i
 
-# fire up webpack-dev-server
+# fire up a webpack dev server with hot reloading
 npm start
 
 # start working
-open http://localhost:8080/webpack-dev-server/
+open http://localhost:3000
 ```
