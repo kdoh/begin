@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/kdoh/begin",
   "dependencies": {
+    "babel": "^6.1.18",
     "react": "^0.13.3"
   },
   "devDependencies": {
