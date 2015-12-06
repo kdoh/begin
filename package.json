@@ -23,6 +23,7 @@
     "babel-core": "5.6.*",
     "babel-loader": "5.3.1",
     "node-libs-browser": "0.5.2",
+    "portfinder": "^0.4.0",
     "react-hot-loader": "^1.2.8",
     "webpack": "1.10.1",
     "webpack-dev-server": "1.10.1"
