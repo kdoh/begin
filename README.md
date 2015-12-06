@@ -32,5 +32,5 @@ npm i
 npm start
 
 # start working
-open http://localhost:3000
+open http://localhost:4000
 ```
