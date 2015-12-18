@@ -1,10 +1,5 @@
 import React from 'react'
 import Component from './component'
 
-class App extends React.Component {
-    render() {
-        return <Component />
-    }
-}
-
+const App = () => <Component />
 export default App
