@@ -1,5 +1,7 @@
-import React from 'react'
-import Component from './component'
+import React, { Component } from 'react'
+import Widget from './widget'
 
-const App = () => <Component />
+class App extends Component {
+  render () { return <Widget /> }
+}
 export default App
